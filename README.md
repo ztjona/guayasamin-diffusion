@@ -28,7 +28,7 @@ The training is done in Google Colab PRO using a A100 GPU.
 # Installation
 ```
 ### Download the code
-git clone https://github.com/Jebq/Artnet-Scraper.git
+git clone https://github.com/ztjona/scopic-diffusion.git
 cd scopic-diffusion
 
 pip install -r requirements.txt
