@@ -1,0 +1,1 @@
+In this folder will be downloaded the images from the artist.
